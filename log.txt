@@ -1,0 +1,707 @@
+Debug    | 2021-11-09 11:31:59 周二 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-09 11:32:07 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:1749226948,-1783033808,0
+Info     | 2021-11-09 11:32:07 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:-898278088,343624296,0
+Debug    | 2021-11-09 11:32:20 周二 | :0,  | baocunle
+Debug    | 2021-11-09 11:34:24 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 11:34:25 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x7372d0f5a8), parent's thread is QThread(0x2534b408da0), current thread is CaptureThread(0x2534d5c46a0)
+Info     | 2021-11-09 11:34:27 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:,142449152,0
+Info     | 2021-11-09 11:34:27 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:,1869461376,0
+Debug    | 2021-11-09 11:35:29 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 11:35:30 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x4972f3fad8), parent's thread is QThread(0x1ad8a9278d0), current thread is CaptureThread(0x1ad8cbde850)
+Info     | 2021-11-09 11:35:31 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:5.08964,343624296,0
+Info     | 2021-11-09 11:35:31 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:-14.4889,-973570144,0
+Debug    | 2021-11-09 11:36:49 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 11:36:50 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xecf9eff4d8), parent's thread is QThread(0x29b7a4dec00), current thread is CaptureThread(0x29b7c604da0)
+Info     | 2021-11-09 11:36:55 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:3.61242,-101739312,-101739248
+Info     | 2021-11-09 11:36:55 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:-14.6195,-101739312,-101739248
+Debug    | 2021-11-09 11:37:27 周二 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-09 11:37:30 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:3.61242,4.92942,88
+Info     | 2021-11-09 11:37:30 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:-14.6195,2.23418,4
+Info     | 2021-11-09 12:33:15 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:3.61242,4.92942,88
+Info     | 2021-11-09 12:33:15 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:-14.6195,2.23418,4
+Debug    | 2021-11-09 12:33:20 周二 | :0,  | baocunle
+Debug    | 2021-11-09 13:53:44 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 13:53:45 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x6c68ff528), parent's thread is QThread(0x147778b4530), current thread is CaptureThread(0x14777931f30)
+Debug    | 2021-11-09 13:53:50 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 13:53:55 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 13:55:23 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 13:55:23 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xef08d2f418), parent's thread is QThread(0x29de1d28470), current thread is CaptureThread(0x29de1d9c410)
+Debug    | 2021-11-09 13:55:28 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 13:55:35 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:40:04 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 14:40:05 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xf9da5af6c8), parent's thread is QThread(0x2ce2fb63db0), current thread is CaptureThread(0x2ce31e99e20)
+Debug    | 2021-11-09 14:40:10 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:40:14 周二 | :0,  | ok
+Debug    | 2021-11-09 14:40:17 周二 | :0,  | ok
+Debug    | 2021-11-09 14:40:28 周二 | :0,  | startPosition: QPointF(138.795,-163.029)
+Debug    | 2021-11-09 14:40:28 周二 | :0,  | endPosition: QPointF(489.088,57.2806)
+Debug    | 2021-11-09 14:40:30 周二 | :0,  | 779
+Debug    | 2021-11-09 14:40:30 周二 | :0,  | 317
+Debug    | 2021-11-09 14:40:40 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:40:50 周二 | :0,  | ok
+Debug    | 2021-11-09 14:40:55 周二 | :0,  | startPosition: QPointF(-39.6558,-281.997)
+Debug    | 2021-11-09 14:40:55 周二 | :0,  | endPosition: QPointF(233.528,-92.5301)
+Debug    | 2021-11-09 14:40:58 周二 | :0,  | 600
+Debug    | 2021-11-09 14:40:58 周二 | :0,  | 198
+Debug    | 2021-11-09 14:41:07 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:41:25 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:41:36 周二 | :0,  | startPosition: QPointF(107.952,57.2806)
+Debug    | 2021-11-09 14:41:36 周二 | :0,  | endPosition: QPointF(295.215,235.731)
+Debug    | 2021-11-09 14:41:37 周二 | :0,  | 748
+Debug    | 2021-11-09 14:41:37 周二 | :0,  | 537
+Debug    | 2021-11-09 14:41:41 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:42:48 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 14:42:48 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x9e24befb18), parent's thread is QThread(0x1e2f6b10d20), current thread is CaptureThread(0x1e2f8d9edd0)
+Debug    | 2021-11-09 14:44:53 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:44:58 周二 | :0,  | startPosition: QPointF(81.5146,68.296)
+Debug    | 2021-11-09 14:44:58 周二 | :0,  | endPosition: QPointF(270.981,226.919)
+Debug    | 2021-11-09 14:45:21 周二 | :0,  | 722
+Debug    | 2021-11-09 14:45:21 周二 | :0,  | 548
+Debug    | 2021-11-09 14:45:55 周二 | :0,  | baocunle
+Debug    | 2021-11-09 14:46:31 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:46:35 周二 | :0,  | startPosition: QPointF(79.3115,-2.2031)
+Debug    | 2021-11-09 14:46:35 周二 | :0,  | endPosition: QPointF(297.418,242.341)
+Debug    | 2021-11-09 14:46:39 周二 | :0,  | 719
+Debug    | 2021-11-09 14:46:39 周二 | :0,  | 478
+Debug    | 2021-11-09 14:46:48 周二 | :0,  | startPosition: QPointF(114.561,66.0929)
+Debug    | 2021-11-09 14:46:48 周二 | :0,  | endPosition: QPointF(277.59,237.935)
+Debug    | 2021-11-09 14:46:49 周二 | :0,  | 755
+Debug    | 2021-11-09 14:46:49 周二 | :0,  | 546
+Debug    | 2021-11-09 14:46:55 周二 | :0,  | baocunle
+Debug    | 2021-11-09 14:47:13 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 14:47:13 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x4546effa58), parent's thread is QThread(0x1cc0d1d2cb0), current thread is CaptureThread(0x1cc0f51e020)
+Debug    | 2021-11-09 14:47:18 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:47:22 周二 | :0,  | startPosition: QPointF(114.561,81.5146)
+Debug    | 2021-11-09 14:47:22 周二 | :0,  | endPosition: QPointF(257.762,213.701)
+Debug    | 2021-11-09 14:47:25 周二 | :0,  | 755
+Debug    | 2021-11-09 14:47:25 周二 | :0,  | 562
+Debug    | 2021-11-09 14:47:38 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:50:33 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:50:38 周二 | :0,  | startPosition: QPointF(99.1394,96.9363)
+Debug    | 2021-11-09 14:50:38 周二 | :0,  | endPosition: QPointF(268.778,218.107)
+Debug    | 2021-11-09 14:50:38 周二 | :0,  | 739
+Debug    | 2021-11-09 14:50:38 周二 | :0,  | 577
+Debug    | 2021-11-09 14:50:42 周二 | :0,  | baocunle
+Debug    | 2021-11-09 14:51:20 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:51:24 周二 | :0,  | startPosition: QPointF(123.373,74.9053)
+Debug    | 2021-11-09 14:51:24 周二 | :0,  | endPosition: QPointF(268.778,200.482)
+Debug    | 2021-11-09 14:51:26 周二 | :0,  | 763
+Debug    | 2021-11-09 14:51:26 周二 | :0,  | 555
+Debug    | 2021-11-09 14:51:30 周二 | :0,  | baocunle
+Debug    | 2021-11-09 14:52:55 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:52:59 周二 | :0,  | startPosition: QPointF(107.952,77.1084)
+Debug    | 2021-11-09 14:52:59 周二 | :0,  | endPosition: QPointF(268.778,222.513)
+Debug    | 2021-11-09 14:53:02 周二 | :0,  | 748
+Debug    | 2021-11-09 14:53:02 周二 | :0,  | 557
+Debug    | 2021-11-09 14:53:05 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:53:08 周二 | :0,  | baocunle
+Debug    | 2021-11-09 14:54:00 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:54:03 周二 | :0,  | startPosition: QPointF(94.7332,74.9053)
+Debug    | 2021-11-09 14:54:03 周二 | :0,  | endPosition: QPointF(270.981,218.107)
+Debug    | 2021-11-09 14:54:06 周二 | :0,  | 735
+Debug    | 2021-11-09 14:54:06 周二 | :0,  | 555
+Debug    | 2021-11-09 14:54:09 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:54:16 周二 | :0,  | baocunle
+Debug    | 2021-11-09 14:58:12 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:58:18 周二 | :0,  | startPosition: QPointF(103.546,77.1084)
+Debug    | 2021-11-09 14:58:18 周二 | :0,  | endPosition: QPointF(266.575,220.31)
+Debug    | 2021-11-09 14:58:21 周二 | :0,  | 744
+Debug    | 2021-11-09 14:58:21 周二 | :0,  | 557
+Debug    | 2021-11-09 14:58:25 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 14:58:29 周二 | :0,  | baocunle
+Debug    | 2021-11-09 15:01:46 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:01:51 周二 | :0,  | startPosition: QPointF(110.155,55.0775)
+Debug    | 2021-11-09 15:01:51 周二 | :0,  | endPosition: QPointF(277.59,222.513)
+Debug    | 2021-11-09 15:01:58 周二 | :0,  | 750
+Debug    | 2021-11-09 15:01:58 周二 | :0,  | 535
+Debug    | 2021-11-09 15:02:07 周二 | :0,  | startPosition: QPointF(110.155,55.0775)
+Debug    | 2021-11-09 15:02:07 周二 | :0,  | endPosition: QPointF(277.59,222.513)
+Debug    | 2021-11-09 15:02:15 周二 | :0,  | startPosition: QPointF(110.155,55.0775)
+Debug    | 2021-11-09 15:02:15 周二 | :0,  | endPosition: QPointF(277.59,222.513)
+Debug    | 2021-11-09 15:04:11 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:04:15 周二 | :0,  | startPosition: QPointF(101.343,85.9208)
+Debug    | 2021-11-09 15:04:15 周二 | :0,  | endPosition: QPointF(268.778,204.888)
+Debug    | 2021-11-09 15:04:18 周二 | :0,  | 741
+Debug    | 2021-11-09 15:04:18 周二 | :0,  | 566
+Debug    | 2021-11-09 15:04:23 周二 | :0,  | baocunle
+Debug    | 2021-11-09 15:06:53 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:06:53 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x7e49eff5b8), parent's thread is QThread(0x24e5faff1e0), current thread is CaptureThread(0x24e61e4deb0)
+Debug    | 2021-11-09 15:06:55 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:07:01 周二 | :0,  | startPosition: QPointF(107.952,79.3115)
+Debug    | 2021-11-09 15:07:01 周二 | :0,  | endPosition: QPointF(255.559,215.904)
+Debug    | 2021-11-09 15:07:04 周二 | :0,  | 748
+Debug    | 2021-11-09 15:07:04 周二 | :0,  | 559
+Debug    | 2021-11-09 15:07:24 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:07:31 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:07:33 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:07:48 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:07:56 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:08:42 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:08:42 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xe7a491f6f8), parent's thread is QThread(0x2e69a03fd00), current thread is CaptureThread(0x2e69c148180)
+Debug    | 2021-11-09 15:08:47 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:08:53 周二 | :0,  | startPosition: QPointF(118.967,92.5301)
+Debug    | 2021-11-09 15:08:53 周二 | :0,  | endPosition: QPointF(253.356,202.685)
+Debug    | 2021-11-09 15:08:56 周二 | :0,  | 759
+Debug    | 2021-11-09 15:08:56 周二 | :0,  | 573
+Debug    | 2021-11-09 15:09:21 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:09:25 周二 | :0,  | startPosition: QPointF(114.561,81.5146)
+Debug    | 2021-11-09 15:09:25 周二 | :0,  | endPosition: QPointF(277.59,218.107)
+Debug    | 2021-11-09 15:09:28 周二 | :0,  | 755
+Debug    | 2021-11-09 15:09:28 周二 | :0,  | 562
+Debug    | 2021-11-09 15:09:32 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:09:37 周二 | :0,  | baocunle
+Debug    | 2021-11-09 15:09:56 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:09:56 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x77f0ff918), parent's thread is QThread(0x1dc8ca92080), current thread is CaptureThread(0x1dc8ee3d410)
+Debug    | 2021-11-09 15:09:59 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:10:07 周二 | :0,  | startPosition: QPointF(112.358,88.1239)
+Debug    | 2021-11-09 15:10:07 周二 | :0,  | endPosition: QPointF(253.356,209.294)
+Debug    | 2021-11-09 15:10:10 周二 | :0,  | 752
+Debug    | 2021-11-09 15:10:10 周二 | :0,  | 568
+Debug    | 2021-11-09 15:10:14 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:10:27 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:10:28 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xab3c51fa48), parent's thread is QThread(0x1e1b71c1ce0), current thread is CaptureThread(0x1e1b9435420)
+Debug    | 2021-11-09 15:11:19 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:11:19 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x34815bf7b8), parent's thread is QThread(0x1c02ccc1f30), current thread is CaptureThread(0x1c02efbd2f0)
+Debug    | 2021-11-09 15:13:39 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:13:39 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x898d5df5d8), parent's thread is QThread(0x1dde27250f0), current thread is CaptureThread(0x1dde499e7f0)
+Debug    | 2021-11-09 15:18:22 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:18:23 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xc83193f488), parent's thread is QThread(0x23dd8b00f90), current thread is CaptureThread(0x23ddad0cd30)
+Debug    | 2021-11-09 15:18:30 周二 | :0,  | baocunle
+Debug    | 2021-11-09 15:18:42 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:18:43 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x2417f2f688), parent's thread is QThread(0x183ef345960), current thread is CaptureThread(0x183f174de70)
+Debug    | 2021-11-09 15:18:49 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:18:54 周二 | :0,  | startPosition: QPointF(116.764,74.9053)
+Debug    | 2021-11-09 15:18:54 周二 | :0,  | endPosition: QPointF(257.762,209.294)
+Debug    | 2021-11-09 15:18:54 周二 | :0,  | 757
+Debug    | 2021-11-09 15:18:54 周二 | :0,  | 555
+Debug    | 2021-11-09 15:18:58 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:19:13 周二 | :0,  | baocunle
+Debug    | 2021-11-09 15:19:38 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:19:39 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x7b732ff928), parent's thread is QThread(0x1898042a050), current thread is CaptureThread(0x18980496ed0)
+Debug    | 2021-11-09 15:19:45 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:19:52 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:20:56 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:20:57 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x8168aff978), parent's thread is QThread(0x27f1de70a30), current thread is CaptureThread(0x27f1def0e10)
+Debug    | 2021-11-09 15:20:59 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:21:04 周二 | :0,  | startPosition: QPointF(105.749,88.1239)
+Debug    | 2021-11-09 15:21:04 周二 | :0,  | endPosition: QPointF(277.59,224.716)
+Debug    | 2021-11-09 15:21:04 周二 | :0,  | 746
+Debug    | 2021-11-09 15:21:04 周二 | :0,  | 568
+Debug    | 2021-11-09 15:21:08 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:21:17 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:21:21 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:21:25 周二 | :0,  | ok
+Debug    | 2021-11-09 15:21:26 周二 | :0,  | ok
+Debug    | 2021-11-09 15:21:30 周二 | :0,  | ok
+Debug    | 2021-11-09 15:21:35 周二 | :0,  | startPosition: QPointF(116.764,88.1239)
+Debug    | 2021-11-09 15:21:35 周二 | :0,  | endPosition: QPointF(257.762,209.294)
+Debug    | 2021-11-09 15:21:41 周二 | :0,  | 757
+Debug    | 2021-11-09 15:21:41 周二 | :0,  | 568
+Debug    | 2021-11-09 15:21:46 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 15:21:51 周二 | :0,  | baocunle
+Debug    | 2021-11-09 15:21:59 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 15:21:59 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x55bf9ff608), parent's thread is QThread(0x199e60b3370), current thread is CaptureThread(0x199e612d950)
+Debug    | 2021-11-09 15:22:03 周二 | :0,  | baocunle
+Debug    | 2021-11-09 16:14:11 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 16:14:31 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 16:14:36 周二 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-09 16:15:11 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:7.06539,12.2276,0
+Info     | 2021-11-09 16:15:11 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | tragetData:-7.46214,11.5018,86
+Debug    | 2021-11-09 16:15:50 周二 | :0,  | baocunle
+Debug    | 2021-11-09 16:16:48 周二 | :0,  | baocunle
+Debug    | 2021-11-09 16:51:41 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 16:51:42 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 16:51:44 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Debug    | 2021-11-09 16:51:47 周二 | :0,  | baocunle
+Debug    | 2021-11-09 16:57:52 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 16:57:55 周二 | :0,  | baocunle
+Debug    | 2021-11-09 20:42:51 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:42:53 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:42:56 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:42:59 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:42:59 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:42:59 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:00 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:00 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:01 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:02 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:02 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:02 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:03 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:03 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:03 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:04 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:11 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:12 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:12 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:13 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:13 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-09 20:43:28 周二 | :0,  | baocunle
+Debug    | 2021-11-09 20:44:26 周二 | :0,  | 117
+Debug    | 2021-11-09 20:44:26 周二 | :0,  | 88
+Debug    | 2021-11-09 20:48:11 周二 | :0,  | baocunle
+Debug    | 2021-11-09 20:50:12 周二 | :0,  | baocunle
+Debug    | 2021-11-09 20:56:19 周二 | :0,  | baocunle
+Debug    | 2021-11-09 21:00:56 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 21:00:57 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x4abfaff4d8), parent's thread is QThread(0x226f4c4eae0), current thread is CaptureThread(0x226f6fcc960)
+Warning  | 2021-11-09 21:00:57 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:00:59 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:00:59 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:00:59 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:00:59 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:00 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:00 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:00 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:00 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:00 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:00 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:01 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:03 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:04 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:04 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:04 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:04 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:05 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:05 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:05 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:05 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:05 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:05 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:06 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:06 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:06 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:06 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:06 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:06 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:07 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:07 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:07 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:07 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:07 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:08 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:08 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:08 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:08 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:08 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:08 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:09 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:09 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:09 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:09 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:09 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:10 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:10 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:10 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:10 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:10 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-09 21:01:10 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Debug    | 2021-11-09 21:01:25 周二 | :0,  | baocunle
+Debug    | 2021-11-09 21:13:25 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 21:13:26 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Debug    | 2021-11-09 21:13:31 周二 | :0,  | baocunle
+Debug    | 2021-11-09 21:14:45 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 21:14:46 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xde06aff958), parent's thread is QThread(0x2c988542ea0), current thread is CaptureThread(0x2c98a739860)
+Warning  | 2021-11-09 21:14:47 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Info     | 2021-11-09 21:14:47 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | connect to 192.168.1.106:2000:
+Debug    | 2021-11-09 21:15:26 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 21:15:27 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Info     | 2021-11-09 21:16:36 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | connect to 192.168.1.106:2000:
+Debug    | 2021-11-09 21:17:09 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-09 21:17:18 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Info     | 2021-11-09 21:17:27 周二 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | connect to 192.168.1.106:2000:
+Debug    | 2021-11-10 11:34:56 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-10 11:38:46 周三 | :0,  | in CaptureThread::run() 
+
+Critical | 2021-11-10 11:38:50 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:38:50 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:38:51 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:38:53 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:38:54 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:39:30 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:39:32 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:39:32 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:39:33 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Critical | 2021-11-10 11:39:33 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Debug    | 2021-11-10 11:39:39 周三 | :0,  | baocunle
+Debug    | 2021-11-10 15:17:48 周三 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-10 15:17:49 周三 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xda594ff538), parent's thread is QThread(0x1f37ce6e200), current thread is CaptureThread(0x1f37f0dc620)
+Info     | 2021-11-10 15:17:49 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | connect to 192.168.1.106:2000:
+Info     | 2021-11-10 15:17:59 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | connect to 192.168.1.106:2000:
+Critical | 2021-11-10 15:18:05 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Debug    | 2021-11-10 15:18:24 周三 | :0,  | baocunle
+Debug    | 2021-11-10 15:42:51 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-10 15:42:56 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-10 15:42:57 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | connect to 192.168.1.106:2000:
+Info     | 2021-11-10 15:43:11 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | connect to 192.168.1.106:2000:
+Debug    | 2021-11-10 15:43:13 周三 | :0,  | baocunle
+Debug    | 2021-11-11 09:51:32 周四 | :0,  | in CaptureThread::run() 
+
+Critical | 2021-11-11 09:57:19 周四 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | templateMatching is error with something wrong!
+Debug    | 2021-11-11 09:57:23 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 09:57:36 周四 | :0,  | baocunle
+Debug    | 2021-11-11 17:01:54 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 17:02:23 周四 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-11 17:02:23 周四 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x2cd96ff788), parent's thread is QThread(0x2004df77030), current thread is CaptureThread(0x2005038da80)
+Debug    | 2021-11-11 17:04:38 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 17:05:08 周四 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-11 17:05:08 周四 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x2bbe16f4b8), parent's thread is QThread(0x19fc2fd8140), current thread is CaptureThread(0x19fc522d810)
+Debug    | 2021-11-11 17:05:10 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 17:05:29 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 17:05:55 周四 | :0,  | baocunle
+Debug    | 2021-11-11 17:06:02 周四 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-11 17:06:02 周四 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x7bef9af9a8), parent's thread is QThread(0x2617da2a5b0), current thread is CaptureThread(0x261002588b0)
+Debug    | 2021-11-11 17:06:17 周四 | :0,  | baocunle
+Debug    | 2021-11-11 17:13:58 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 17:15:02 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 17:15:43 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 17:15:54 周四 | :0,  | ok
+Debug    | 2021-11-11 17:15:57 周四 | :0,  | ok
+Debug    | 2021-11-11 17:16:00 周四 | :0,  | ok
+Debug    | 2021-11-11 17:16:36 周四 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-11 17:16:42 周四 | :0,  | baocunle
+Debug    | 2021-11-11 17:16:46 周四 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-11 17:16:47 周四 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x3f4f30f6d8), parent's thread is QThread(0x159c07ccef0), current thread is CaptureThread(0x159c29fb750)
+Debug    | 2021-11-11 17:16:52 周四 | :0,  | baocunle
+Warning  | 2021-11-14 17:13:03 周日 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | no image find while calibrating!
+Debug    | 2021-11-14 17:13:14 周日 | :0,  | baocunle
+Debug    | 2021-11-14 17:15:21 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:15:26 周日 | :0,  | ok
+Debug    | 2021-11-14 17:15:29 周日 | :0,  | ok
+Debug    | 2021-11-14 17:15:31 周日 | :0,  | ok
+Debug    | 2021-11-14 17:15:48 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:19:37 周日 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-14 17:19:39 周日 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xc02235f808), parent's thread is QThread(0x23110524720), current thread is CaptureThread(0x23112790710)
+Debug    | 2021-11-14 17:32:43 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:32:55 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:33:06 周日 | :0,  | ok
+Debug    | 2021-11-14 17:33:09 周日 | :0,  | ok
+Debug    | 2021-11-14 17:33:53 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:34:25 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:36:56 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:37:13 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:38:29 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:38:57 周日 | :0,  | baocunle
+Debug    | 2021-11-14 17:45:33 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:47:02 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:48:51 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:50:53 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:51:27 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:52:17 周日 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-14 17:52:56 周日 | :0,  | baocunle
+Debug    | 2021-11-14 17:53:23 周日 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-14 17:53:23 周日 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xbb1d2ff5a8), parent's thread is QThread(0x29d818e22d0), current thread is CaptureThread(0x29d83b8d830)
+Debug    | 2021-11-14 17:54:11 周日 | :0,  | baocunle
+Debug    | 2021-11-16 17:28:41 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-16 17:29:00 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-16 17:29:02 周二 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-16 17:29:02 周二 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x7a5ceff868), parent's thread is QThread(0x2135a911570), current thread is CaptureThread(0x2135cb3cd00)
+Debug    | 2021-11-16 17:29:08 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-16 17:29:13 周二 | :0,  | ok
+Debug    | 2021-11-16 17:29:16 周二 | :0,  | ok
+Debug    | 2021-11-16 17:29:51 周二 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-16 17:30:09 周二 | :0,  | baocunle
+Debug    | 2021-11-17 14:42:12 周三 | :0,  | 7
+Debug    | 2021-11-17 14:42:29 周三 | :0,  | 7
+Debug    | 2021-11-17 14:44:44 周三 | :0,  | 0
+Debug    | 2021-11-17 14:44:59 周三 | :0,  | 1
+Debug    | 2021-11-17 14:45:27 周三 | :0,  | 6
+Warning  | 2021-11-17 14:49:18 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-17 14:49:20 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-17 14:49:20 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-17 14:49:20 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-17 14:49:21 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-17 14:49:21 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-17 14:49:21 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-17 14:49:21 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Warning  | 2021-11-17 14:49:21 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | graphItem is not loaded before method named piex2location
+Debug    | 2021-11-17 14:50:31 周三 | :0,  | baocunle
+Debug    | 2021-11-17 14:50:37 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 14:51:29 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 14:51:57 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 14:52:11 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 14:52:15 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 14:52:26 周三 | :0,  | ok
+Debug    | 2021-11-17 14:52:37 周三 | :0,  | ok
+Info     | 2021-11-17 14:52:40 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 14:52:41 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 14:52:50 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 14:54:46 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 14:54:47 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 14:54:51 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 14:54:55 周三 | :0,  | ok
+Info     | 2021-11-17 14:54:58 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 14:54:59 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 14:55:01 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 14:55:10 周三 | :0,  | ok
+Info     | 2021-11-17 14:55:11 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 14:55:13 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 14:55:21 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 14:55:40 周三 | :0,  | ok
+Info     | 2021-11-17 14:55:42 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 14:55:43 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 14:56:01 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 14:56:06 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 14:56:07 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 14:56:10 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 14:56:15 周三 | :0,  | ok
+Info     | 2021-11-17 14:56:19 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 14:56:20 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 14:56:24 周三 | :0,  | baocunle
+Warning  | 2021-11-17 14:58:24 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | no image find while calibrating!
+Warning  | 2021-11-17 14:59:45 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | no image find while calibrating!
+Info     | 2021-11-17 15:01:49 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:02:28 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | no image find while calibrating!
+Warning  | 2021-11-17 15:02:39 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:03:25 周三 | :0,  | baocunle
+Debug    | 2021-11-17 15:03:48 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 15:04:04 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:04:20 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:04:37 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 15:04:44 周三 | :0,  | ok
+Info     | 2021-11-17 15:05:14 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:05:18 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:05:21 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 15:05:27 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:05:28 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Warning  | 2021-11-17 15:06:19 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:06:42 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 15:06:46 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:06:49 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:06:56 周三 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-17 15:07:06 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Info     | 2021-11-17 15:07:07 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Debug    | 2021-11-17 15:07:08 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 15:07:09 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:07:12 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:07:43 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 15:08:20 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Info     | 2021-11-17 15:08:30 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Debug    | 2021-11-17 15:08:31 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 15:08:33 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:08:36 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Warning  | 2021-11-17 15:08:40 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:08:42 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 15:08:46 周三 | :0,  | ok
+Info     | 2021-11-17 15:08:51 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:08:55 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:08:56 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 15:09:51 周三 | :0,  | ok
+Debug    | 2021-11-17 15:09:55 周三 | :0,  | ok
+Debug    | 2021-11-17 15:10:02 周三 | :0,  | ok
+Info     | 2021-11-17 15:10:06 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:10:12 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Warning  | 2021-11-17 15:10:34 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:10:35 周三 | :0,  | in CaptureThread::run() 
+
+Info     | 2021-11-17 15:10:51 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:10:55 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:10:58 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 15:11:06 周三 | :0,  | ok
+Info     | 2021-11-17 15:11:08 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Warning  | 2021-11-17 15:11:12 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | conld not find the chessPoints!
+Debug    | 2021-11-17 15:11:18 周三 | :0,  | in CaptureThread::run() 
+
+Debug    | 2021-11-17 15:11:26 周三 | :0,  | ok
+Info     | 2021-11-17 15:11:28 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | calibrate photo!
+Info     | 2021-11-17 15:11:31 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | ok! find the points in chess
+Debug    | 2021-11-17 15:12:16 周三 | :0,  | baocunle
+Debug    | 2021-11-17 15:14:23 周三 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-17 15:14:23 周三 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xf9e59ff578), parent's thread is QThread(0x2c3a3671180), current thread is CaptureThread(0x2c3a5820400)
+Info     | 2021-11-17 15:14:55 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | connect to 192.168.1.106:2000:
+Info     | 2021-11-17 15:15:26 周三 | D:\????????\??????\first_version\laserMarking\log.cpp:46, void __cdecl logSysInit(class QString) | ok! find the points in chess
+Debug    | 2021-11-17 15:19:32 周三 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-17 15:19:32 周三 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0x1fb48ff448), parent's thread is QThread(0x17702803280), current thread is CaptureThread(0x17704ad8a60)
+Debug    | 2021-11-17 15:19:49 周三 | :0,  | baocunle
+Debug    | 2021-11-17 15:20:00 周三 | :0,  | in CaptureThread::run() 
+
+Warning  | 2021-11-17 15:20:01 周三 | :0,  | QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QApplication(0xb5916ff558), parent's thread is QThread(0x1d64f214a00), current thread is CaptureThread(0x1d65144c4f0)
+Debug    | 2021-11-17 15:20:47 周三 | :0,  | sendSignalToPLC:port = com  0
+Debug    | 2021-11-17 15:20:47 周三 | :0,  | send successful!

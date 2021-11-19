@@ -1,0 +1,1307 @@
+%YAML:1.0
+---
+class_id: gongjian
+pyramid_levels: 2
+template_pyramids:
+   -
+      template_id: 0
+      templates:
+         -
+            width: 47
+            height: 24
+            tl_x: 32
+            tl_y: 30
+            pyramid_level: 0
+            features:
+               - [ 44, 14, 7 ]
+               - [ 0, 19, 3 ]
+               - [ 33, 12, 3 ]
+               - [ 21, 10, 7 ]
+               - [ 11, 24, 3 ]
+               - [ 3, 9, 4 ]
+               - [ 38, 0, 4 ]
+               - [ 29, 21, 4 ]
+               - [ 47, 4, 0 ]
+         -
+            width: 23
+            height: 12
+            tl_x: 16
+            tl_y: 15
+            pyramid_level: 1
+            features:
+               - [ 15, 6, 4 ]
+               - [ 2, 9, 3 ]
+               - [ 22, 7, 7 ]
+               - [ 18, 0, 4 ]
+   -
+      template_id: 1
+      templates:
+         -
+            width: 42
+            height: 28
+            tl_x: 34
+            tl_y: 28
+            pyramid_level: 0
+            features:
+               - [ 42, 14, 7 ]
+               - [ 0, 22, 3 ]
+               - [ 32, 13, 3 ]
+               - [ 19, 12, 7 ]
+               - [ 8, 28, 3 ]
+               - [ 18, 28, 0 ]
+               - [ 35, 1, 4 ]
+               - [ 28, 22, 3 ]
+               - [ 0, 13, 3 ]
+         -
+            width: 21
+            height: 14
+            tl_x: 17
+            tl_y: 14
+            pyramid_level: 1
+            features:
+               - [ 14, 7, 3 ]
+               - [ 2, 10, 3 ]
+               - [ 16, 1, 4 ]
+               - [ 17, 6, 3 ]
+   -
+      template_id: 2
+      templates:
+         -
+            width: 44
+            height: 29
+            tl_x: 32
+            tl_y: 28
+            pyramid_level: 0
+            features:
+               - [ 44, 12, 7 ]
+               - [ 2, 25, 3 ]
+               - [ 34, 12, 3 ]
+               - [ 21, 13, 7 ]
+               - [ 12, 29, 3 ]
+               - [ 30, 22, 3 ]
+               - [ 36, 0, 3 ]
+               - [ 21, 28, 7 ]
+               - [ 1, 16, 3 ]
+         -
+            width: 22
+            height: 14
+            tl_x: 16
+            tl_y: 14
+            pyramid_level: 1
+            features:
+               - [ 17, 6, 3 ]
+               - [ 4, 11, 3 ]
+               - [ 17, 0, 4 ]
+               - [ 14, 7, 3 ]
+   -
+      template_id: 3
+      templates:
+         -
+            width: 43
+            height: 28
+            tl_x: 34
+            tl_y: 28
+            pyramid_level: 0
+            features:
+               - [ 42, 12, 7 ]
+               - [ 1, 25, 3 ]
+               - [ 23, 16, 3 ]
+               - [ 19, 28, 7 ]
+               - [ 33, 0, 3 ]
+               - [ 21, 5, 3 ]
+               - [ 13, 16, 7 ]
+               - [ 43, 2, 7 ]
+         -
+            width: 21
+            height: 14
+            tl_x: 17
+            tl_y: 14
+            pyramid_level: 1
+            features:
+               - [ 15, 6, 3 ]
+               - [ 2, 12, 3 ]
+               - [ 21, 6, 7 ]
+               - [ 16, 0, 4 ]
+   -
+      template_id: 4
+      templates:
+         -
+            width: 35
+            height: 44
+            tl_x: 38
+            tl_y: 20
+            pyramid_level: 0
+            features:
+               - [ 35, 11, 5 ]
+               - [ 6, 44, 1 ]
+               - [ 20, 24, 2 ]
+               - [ 11, 29, 5 ]
+               - [ 17, 41, 1 ]
+               - [ 20, 5, 2 ]
+               - [ 12, 16, 1 ]
+               - [ 26, 15, 1 ]
+               - [ 0, 37, 2 ]
+               - [ 29, 1, 6 ]
+         -
+            width: 17
+            height: 22
+            tl_x: 19
+            tl_y: 10
+            pyramid_level: 1
+            features:
+               - [ 4, 20, 1 ]
+               - [ 11, 10, 2 ]
+               - [ 9, 3, 2 ]
+               - [ 13, 7, 2 ]
+   -
+      template_id: 5
+      templates:
+         -
+            width: 26
+            height: 42
+            tl_x: 48
+            tl_y: 26
+            pyramid_level: 0
+            features:
+               - [ 18, 0, 4 ]
+               - [ 26, 23, 0 ]
+               - [ 6, 42, 0 ]
+               - [ 11, 16, 0 ]
+               - [ 3, 0, 1 ]
+               - [ 20, 36, 0 ]
+               - [ 5, 26, 4 ]
+               - [ 0, 14, 0 ]
+         -
+            width: 13
+            height: 21
+            tl_x: 24
+            tl_y: 13
+            pyramid_level: 1
+            features:
+               - [ 6, 4, 0 ]
+               - [ 3, 19, 0 ]
+               - [ 1, 1, 1 ]
+               - [ 5, 7, 1 ]
+   -
+      template_id: 6
+      templates:
+         -
+            width: 20
+            height: 40
+            tl_x: 48
+            tl_y: 26
+            pyramid_level: 0
+            features:
+               - [ 18, 0, 4 ]
+               - [ 7, 40, 0 ]
+               - [ 11, 15, 0 ]
+               - [ 5, 26, 4 ]
+               - [ 19, 27, 5 ]
+               - [ 2, 1, 1 ]
+               - [ 20, 39, 7 ]
+               - [ 0, 14, 0 ]
+         -
+            width: 10
+            height: 20
+            tl_x: 24
+            tl_y: 13
+            pyramid_level: 1
+            features:
+               - [ 3, 19, 0 ]
+               - [ 6, 4, 0 ]
+               - [ 1, 1, 1 ]
+               - [ 5, 7, 1 ]
+   -
+      template_id: 7
+      templates:
+         -
+            width: 24
+            height: 43
+            tl_x: 48
+            tl_y: 24
+            pyramid_level: 0
+            features:
+               - [ 17, 1, 4 ]
+               - [ 7, 43, 0 ]
+               - [ 11, 17, 0 ]
+               - [ 6, 28, 4 ]
+               - [ 19, 29, 5 ]
+               - [ 2, 3, 1 ]
+               - [ 0, 16, 0 ]
+               - [ 20, 40, 7 ]
+         -
+            width: 12
+            height: 21
+            tl_x: 24
+            tl_y: 12
+            pyramid_level: 1
+            features:
+               - [ 12, 4, 0 ]
+               - [ 6, 5, 0 ]
+               - [ 4, 19, 0 ]
+               - [ 1, 2, 1 ]
+   -
+      template_id: 8
+      templates:
+         -
+            width: 24
+            height: 50
+            tl_x: 48
+            tl_y: 18
+            pyramid_level: 0
+            features:
+               - [ 17, 7, 4 ]
+               - [ 7, 50, 0 ]
+               - [ 11, 22, 0 ]
+               - [ 6, 34, 4 ]
+               - [ 16, 43, 0 ]
+               - [ 2, 9, 1 ]
+               - [ 0, 22, 0 ]
+               - [ 8, 1, 4 ]
+         -
+            width: 12
+            height: 25
+            tl_x: 24
+            tl_y: 9
+            pyramid_level: 1
+            features:
+               - [ 12, 7, 0 ]
+               - [ 4, 22, 0 ]
+               - [ 5, 11, 0 ]
+               - [ 1, 5, 1 ]
+   -
+      template_id: 9
+      templates:
+         -
+            width: 22
+            height: 42
+            tl_x: 46
+            tl_y: 24
+            pyramid_level: 0
+            features:
+               - [ 14, 0, 4 ]
+               - [ 16, 42, 0 ]
+               - [ 13, 19, 0 ]
+               - [ 10, 29, 4 ]
+               - [ 22, 33, 7 ]
+               - [ 0, 6, 0 ]
+               - [ 11, 9, 0 ]
+               - [ 7, 41, 0 ]
+         -
+            width: 11
+            height: 21
+            tl_x: 23
+            tl_y: 12
+            pyramid_level: 1
+            features:
+               - [ 6, 8, 0 ]
+               - [ 8, 20, 0 ]
+               - [ 0, 4, 0 ]
+               - [ 5, 4, 0 ]
+   -
+      template_id: 10
+      templates:
+         -
+            width: 24
+            height: 44
+            tl_x: 46
+            tl_y: 24
+            pyramid_level: 0
+            features:
+               - [ 13, 0, 3 ]
+               - [ 17, 44, 7 ]
+               - [ 13, 19, 0 ]
+               - [ 24, 26, 4 ]
+               - [ 0, 8, 0 ]
+               - [ 2, 20, 7 ]
+               - [ 11, 29, 3 ]
+               - [ 7, 40, 0 ]
+         -
+            width: 12
+            height: 22
+            tl_x: 23
+            tl_y: 12
+            pyramid_level: 1
+            features:
+               - [ 8, 20, 0 ]
+               - [ 5, 4, 0 ]
+               - [ 0, 4, 0 ]
+               - [ 6, 8, 0 ]
+   -
+      template_id: 11
+      templates:
+         -
+            width: 25
+            height: 47
+            tl_x: 44
+            tl_y: 20
+            pyramid_level: 0
+            features:
+               - [ 15, 4, 3 ]
+               - [ 19, 47, 7 ]
+               - [ 13, 14, 7 ]
+               - [ 11, 27, 3 ]
+               - [ 25, 38, 7 ]
+               - [ 22, 19, 0 ]
+               - [ 1, 10, 0 ]
+               - [ 10, 47, 0 ]
+               - [ 5, 1, 4 ]
+         -
+            width: 12
+            height: 23
+            tl_x: 22
+            tl_y: 10
+            pyramid_level: 1
+            features:
+               - [ 9, 21, 0 ]
+               - [ 6, 7, 0 ]
+               - [ 1, 6, 0 ]
+               - [ 7, 10, 0 ]
+   -
+      template_id: 12
+      templates:
+         -
+            width: 25
+            height: 48
+            tl_x: 44
+            tl_y: 20
+            pyramid_level: 0
+            features:
+               - [ 15, 4, 3 ]
+               - [ 20, 48, 7 ]
+               - [ 13, 15, 7 ]
+               - [ 11, 27, 3 ]
+               - [ 25, 37, 7 ]
+               - [ 10, 45, 0 ]
+               - [ 1, 10, 0 ]
+               - [ 22, 19, 0 ]
+               - [ 5, 1, 4 ]
+         -
+            width: 12
+            height: 24
+            tl_x: 22
+            tl_y: 10
+            pyramid_level: 1
+            features:
+               - [ 9, 21, 7 ]
+               - [ 6, 7, 7 ]
+               - [ 1, 7, 0 ]
+               - [ 7, 10, 0 ]
+   -
+      template_id: 13
+      templates:
+         -
+            width: 26
+            height: 48
+            tl_x: 44
+            tl_y: 20
+            pyramid_level: 0
+            features:
+               - [ 14, 4, 3 ]
+               - [ 21, 48, 7 ]
+               - [ 15, 23, 7 ]
+               - [ 26, 38, 7 ]
+               - [ 1, 11, 0 ]
+               - [ 4, 24, 7 ]
+               - [ 13, 33, 3 ]
+               - [ 11, 46, 7 ]
+               - [ 4, 1, 4 ]
+         -
+            width: 13
+            height: 24
+            tl_x: 22
+            tl_y: 10
+            pyramid_level: 1
+            features:
+               - [ 6, 7, 7 ]
+               - [ 10, 22, 7 ]
+               - [ 0, 6, 0 ]
+               - [ 7, 10, 0 ]
+   -
+      template_id: 14
+      templates:
+         -
+            width: 35
+            height: 39
+            tl_x: 40
+            tl_y: 24
+            pyramid_level: 0
+            features:
+               - [ 10, 1, 2 ]
+               - [ 35, 38, 6 ]
+               - [ 19, 18, 6 ]
+               - [ 35, 27, 6 ]
+               - [ 24, 39, 6 ]
+               - [ 1, 13, 7 ]
+               - [ 22, 28, 2 ]
+               - [ 10, 24, 6 ]
+         -
+            width: 17
+            height: 19
+            tl_x: 20
+            tl_y: 12
+            pyramid_level: 1
+            features:
+               - [ 8, 8, 6 ]
+               - [ 16, 18, 6 ]
+               - [ 1, 8, 7 ]
+               - [ 6, 5, 6 ]
+   -
+      template_id: 15
+      templates:
+         -
+            width: 42
+            height: 32
+            tl_x: 36
+            tl_y: 26
+            pyramid_level: 0
+            features:
+               - [ 11, 1, 2 ]
+               - [ 42, 32, 6 ]
+               - [ 23, 16, 6 ]
+               - [ 40, 21, 6 ]
+               - [ 4, 15, 6 ]
+               - [ 14, 23, 5 ]
+               - [ 28, 25, 2 ]
+               - [ 1, 5, 2 ]
+         -
+            width: 21
+            height: 16
+            tl_x: 18
+            tl_y: 13
+            pyramid_level: 1
+            features:
+               - [ 7, 5, 6 ]
+               - [ 19, 15, 6 ]
+               - [ 2, 8, 7 ]
+               - [ 10, 7, 6 ]
+   -
+      template_id: 16
+      templates:
+         -
+            width: 47
+            height: 21
+            tl_x: 34
+            tl_y: 30
+            pyramid_level: 0
+            features:
+               - [ 9, 1, 1 ]
+               - [ 47, 21, 5 ]
+               - [ 25, 12, 5 ]
+               - [ 42, 11, 5 ]
+               - [ 7, 16, 5 ]
+               - [ 1, 8, 1 ]
+               - [ 15, 8, 5 ]
+               - [ 32, 19, 1 ]
+         -
+            width: 23
+            height: 10
+            tl_x: 17
+            tl_y: 15
+            pyramid_level: 1
+            features:
+               - [ 22, 10, 5 ]
+               - [ 10, 5, 5 ]
+               - [ 5, 9, 6 ]
+               - [ 7, 4, 5 ]
+   -
+      template_id: 17
+      templates:
+         -
+            width: 41
+            height: 24
+            tl_x: 40
+            tl_y: 26
+            pyramid_level: 0
+            features:
+               - [ 2, 6, 1 ]
+               - [ 41, 24, 5 ]
+               - [ 11, 13, 5 ]
+               - [ 20, 21, 1 ]
+               - [ 30, 9, 1 ]
+               - [ 0, 16, 2 ]
+               - [ 37, 15, 5 ]
+               - [ 19, 8, 5 ]
+         -
+            width: 20
+            height: 12
+            tl_x: 20
+            tl_y: 13
+            pyramid_level: 1
+            features:
+               - [ 5, 0, 4 ]
+               - [ 6, 7, 5 ]
+               - [ 19, 12, 5 ]
+               - [ 1, 11, 6 ]
+   -
+      template_id: 18
+      templates:
+         -
+            width: 43
+            height: 26
+            tl_x: 40
+            tl_y: 26
+            pyramid_level: 0
+            features:
+               - [ 1, 8, 0 ]
+               - [ 24, 0, 4 ]
+               - [ 43, 20, 4 ]
+               - [ 16, 15, 4 ]
+               - [ 27, 21, 0 ]
+               - [ 1, 23, 5 ]
+               - [ 37, 6, 4 ]
+               - [ 15, 26, 4 ]
+         -
+            width: 21
+            height: 13
+            tl_x: 20
+            tl_y: 13
+            pyramid_level: 1
+            features:
+               - [ 19, 10, 4 ]
+               - [ 4, 7, 4 ]
+               - [ 1, 12, 5 ]
+               - [ 8, 8, 5 ]
+   -
+      template_id: 19
+      templates:
+         -
+            width: 42
+            height: 20
+            tl_x: 40
+            tl_y: 32
+            pyramid_level: 0
+            features:
+               - [ 0, 3, 0 ]
+               - [ 42, 13, 4 ]
+               - [ 16, 9, 4 ]
+               - [ 27, 14, 0 ]
+               - [ 28, 1, 1 ]
+               - [ 2, 18, 5 ]
+               - [ 15, 20, 4 ]
+               - [ 39, 0, 3 ]
+         -
+            width: 21
+            height: 10
+            tl_x: 20
+            tl_y: 16
+            pyramid_level: 1
+            features:
+               - [ 4, 4, 4 ]
+               - [ 19, 6, 4 ]
+               - [ 1, 9, 5 ]
+               - [ 7, 5, 4 ]
+   -
+      template_id: 20
+      templates:
+         -
+            width: 48
+            height: 18
+            tl_x: 40
+            tl_y: 34
+            pyramid_level: 0
+            features:
+               - [ 0, 3, 0 ]
+               - [ 44, 8, 4 ]
+               - [ 18, 7, 4 ]
+               - [ 28, 12, 0 ]
+               - [ 35, 1, 4 ]
+               - [ 3, 18, 4 ]
+               - [ 17, 18, 4 ]
+               - [ 38, 17, 4 ]
+         -
+            width: 24
+            height: 9
+            tl_x: 20
+            tl_y: 17
+            pyramid_level: 1
+            features:
+               - [ 24, 1, 7 ]
+               - [ 5, 4, 4 ]
+               - [ 19, 4, 4 ]
+               - [ 2, 9, 5 ]
+   -
+      template_id: 21
+      templates:
+         -
+            width: 54
+            height: 18
+            tl_x: 34
+            tl_y: 34
+            pyramid_level: 0
+            features:
+               - [ 6, 3, 0 ]
+               - [ 49, 8, 4 ]
+               - [ 24, 7, 4 ]
+               - [ 34, 12, 0 ]
+               - [ 41, 0, 4 ]
+               - [ 9, 18, 4 ]
+               - [ 23, 18, 4 ]
+               - [ 15, 7, 4 ]
+               - [ 48, 17, 4 ]
+               - [ 1, 11, 0 ]
+         -
+            width: 27
+            height: 9
+            tl_x: 17
+            tl_y: 17
+            pyramid_level: 1
+            features:
+               - [ 27, 1, 7 ]
+               - [ 8, 4, 4 ]
+               - [ 22, 4, 4 ]
+               - [ 5, 9, 5 ]
+   -
+      template_id: 22
+      templates:
+         -
+            width: 43
+            height: 22
+            tl_x: 38
+            tl_y: 32
+            pyramid_level: 0
+            features:
+               - [ 1, 8, 0 ]
+               - [ 43, 6, 4 ]
+               - [ 20, 9, 4 ]
+               - [ 30, 12, 0 ]
+               - [ 34, 0, 3 ]
+               - [ 7, 22, 4 ]
+               - [ 10, 11, 4 ]
+               - [ 43, 15, 4 ]
+         -
+            width: 21
+            height: 11
+            tl_x: 19
+            tl_y: 16
+            pyramid_level: 1
+            features:
+               - [ 8, 5, 4 ]
+               - [ 20, 3, 4 ]
+               - [ 5, 11, 4 ]
+               - [ 5, 6, 4 ]
+   -
+      template_id: 23
+      templates:
+         -
+            width: 45
+            height: 24
+            tl_x: 38
+            tl_y: 30
+            pyramid_level: 0
+            features:
+               - [ 1, 11, 7 ]
+               - [ 45, 7, 3 ]
+               - [ 20, 11, 4 ]
+               - [ 27, 0, 0 ]
+               - [ 9, 24, 4 ]
+               - [ 21, 22, 3 ]
+               - [ 30, 13, 7 ]
+               - [ 41, 17, 4 ]
+         -
+            width: 22
+            height: 12
+            tl_x: 19
+            tl_y: 15
+            pyramid_level: 1
+            features:
+               - [ 20, 4, 4 ]
+               - [ 5, 7, 4 ]
+               - [ 5, 12, 4 ]
+               - [ 8, 6, 4 ]
+   -
+      template_id: 24
+      templates:
+         -
+            width: 46
+            height: 25
+            tl_x: 36
+            tl_y: 30
+            pyramid_level: 0
+            features:
+               - [ 3, 11, 7 ]
+               - [ 45, 7, 4 ]
+               - [ 13, 13, 3 ]
+               - [ 26, 15, 7 ]
+               - [ 37, 1, 3 ]
+               - [ 19, 4, 4 ]
+               - [ 9, 25, 4 ]
+               - [ 46, 16, 3 ]
+               - [ 0, 21, 0 ]
+         -
+            width: 23
+            height: 12
+            tl_x: 18
+            tl_y: 15
+            pyramid_level: 1
+            features:
+               - [ 21, 4, 3 ]
+               - [ 6, 7, 4 ]
+               - [ 6, 12, 4 ]
+               - [ 9, 6, 4 ]
+   -
+      template_id: 25
+      templates:
+         -
+            width: 47
+            height: 26
+            tl_x: 36
+            tl_y: 30
+            pyramid_level: 0
+            features:
+               - [ 3, 11, 7 ]
+               - [ 47, 6, 3 ]
+               - [ 14, 13, 3 ]
+               - [ 26, 15, 7 ]
+               - [ 36, 1, 3 ]
+               - [ 44, 16, 4 ]
+               - [ 9, 25, 4 ]
+               - [ 18, 4, 4 ]
+               - [ 0, 21, 0 ]
+         -
+            width: 23
+            height: 13
+            tl_x: 18
+            tl_y: 15
+            pyramid_level: 1
+            features:
+               - [ 6, 7, 3 ]
+               - [ 21, 4, 3 ]
+               - [ 5, 13, 4 ]
+               - [ 9, 6, 4 ]
+   -
+      template_id: 26
+      templates:
+         -
+            width: 47
+            height: 32
+            tl_x: 38
+            tl_y: 26
+            pyramid_level: 0
+            features:
+               - [ 1, 21, 7 ]
+               - [ 40, 3, 3 ]
+               - [ 20, 15, 3 ]
+               - [ 30, 14, 7 ]
+               - [ 30, 0, 3 ]
+               - [ 8, 29, 0 ]
+               - [ 24, 25, 2 ]
+               - [ 10, 21, 3 ]
+               - [ 22, 2, 7 ]
+               - [ 47, 7, 0 ]
+         -
+            width: 23
+            height: 16
+            tl_x: 19
+            tl_y: 13
+            pyramid_level: 1
+            features:
+               - [ 6, 10, 3 ]
+               - [ 18, 3, 3 ]
+               - [ 7, 16, 4 ]
+               - [ 1, 11, 6 ]
+   -
+      template_id: 27
+      templates:
+         -
+            width: 43
+            height: 32
+            tl_x: 38
+            tl_y: 26
+            pyramid_level: 0
+            features:
+               - [ 1, 21, 7 ]
+               - [ 41, 2, 2 ]
+               - [ 12, 20, 3 ]
+               - [ 25, 18, 6 ]
+               - [ 30, 0, 3 ]
+               - [ 13, 10, 3 ]
+               - [ 13, 32, 3 ]
+               - [ 21, 2, 7 ]
+               - [ 43, 11, 3 ]
+         -
+            width: 21
+            height: 16
+            tl_x: 19
+            tl_y: 13
+            pyramid_level: 1
+            features:
+               - [ 8, 9, 3 ]
+               - [ 19, 2, 3 ]
+               - [ 1, 11, 6 ]
+               - [ 7, 16, 3 ]
+   -
+      template_id: 28
+      templates:
+         -
+            width: 26
+            height: 40
+            tl_x: 46
+            tl_y: 18
+            pyramid_level: 0
+            features:
+               - [ 1, 40, 5 ]
+               - [ 18, 0, 1 ]
+               - [ 10, 25, 1 ]
+               - [ 16, 15, 5 ]
+               - [ 8, 6, 1 ]
+               - [ 17, 40, 1 ]
+               - [ 21, 27, 1 ]
+               - [ 26, 5, 1 ]
+         -
+            width: 13
+            height: 20
+            tl_x: 23
+            tl_y: 9
+            pyramid_level: 1
+            features:
+               - [ 4, 17, 1 ]
+               - [ 9, 1, 1 ]
+               - [ 9, 19, 1 ]
+               - [ 5, 14, 1 ]
+   -
+      template_id: 29
+      templates:
+         -
+            width: 25
+            height: 44
+            tl_x: 46
+            tl_y: 16
+            pyramid_level: 0
+            features:
+               - [ 1, 42, 5 ]
+               - [ 17, 3, 1 ]
+               - [ 8, 35, 1 ]
+               - [ 16, 24, 4 ]
+               - [ 8, 7, 1 ]
+               - [ 3, 25, 1 ]
+               - [ 12, 44, 6 ]
+               - [ 3, 14, 5 ]
+               - [ 25, 1, 6 ]
+         -
+            width: 12
+            height: 22
+            tl_x: 23
+            tl_y: 8
+            pyramid_level: 1
+            features:
+               - [ 4, 18, 1 ]
+               - [ 8, 4, 1 ]
+               - [ 9, 21, 2 ]
+               - [ 5, 15, 1 ]
+   -
+      template_id: 30
+      templates:
+         -
+            width: 23
+            height: 43
+            tl_x: 48
+            tl_y: 16
+            pyramid_level: 0
+            features:
+               - [ 0, 43, 5 ]
+               - [ 15, 1, 0 ]
+               - [ 8, 27, 1 ]
+               - [ 14, 17, 5 ]
+               - [ 6, 7, 1 ]
+               - [ 15, 43, 1 ]
+               - [ 19, 30, 0 ]
+               - [ 6, 36, 1 ]
+               - [ 1, 15, 5 ]
+               - [ 23, 6, 1 ]
+         -
+            width: 11
+            height: 21
+            tl_x: 24
+            tl_y: 8
+            pyramid_level: 1
+            features:
+               - [ 7, 3, 1 ]
+               - [ 4, 15, 1 ]
+               - [ 8, 21, 2 ]
+               - [ 3, 18, 1 ]
+   -
+      template_id: 31
+      templates:
+         -
+            width: 25
+            height: 50
+            tl_x: 42
+            tl_y: 16
+            pyramid_level: 0
+            features:
+               - [ 7, 43, 4 ]
+               - [ 20, 1, 0 ]
+               - [ 14, 27, 1 ]
+               - [ 20, 17, 4 ]
+               - [ 11, 8, 1 ]
+               - [ 22, 42, 1 ]
+               - [ 25, 29, 0 ]
+               - [ 15, 50, 5 ]
+         -
+            width: 12
+            height: 25
+            tl_x: 21
+            tl_y: 8
+            pyramid_level: 1
+            features:
+               - [ 0, 18, 0 ]
+               - [ 10, 2, 1 ]
+               - [ 11, 21, 1 ]
+               - [ 7, 15, 1 ]
+   -
+      template_id: 32
+      templates:
+         -
+            width: 21
+            height: 48
+            tl_x: 46
+            tl_y: 12
+            pyramid_level: 0
+            features:
+               - [ 5, 48, 4 ]
+               - [ 12, 5, 0 ]
+               - [ 10, 38, 0 ]
+               - [ 15, 27, 4 ]
+               - [ 4, 12, 0 ]
+               - [ 15, 47, 5 ]
+               - [ 21, 37, 0 ]
+               - [ 1, 21, 5 ]
+               - [ 3, 31, 0 ]
+               - [ 21, 8, 0 ]
+         -
+            width: 10
+            height: 24
+            tl_x: 23
+            tl_y: 6
+            pyramid_level: 1
+            features:
+               - [ 3, 0, 4 ]
+               - [ 5, 19, 0 ]
+               - [ 6, 5, 0 ]
+               - [ 10, 22, 1 ]
+   -
+      template_id: 33
+      templates:
+         -
+            width: 18
+            height: 48
+            tl_x: 50
+            tl_y: 12
+            pyramid_level: 0
+            features:
+               - [ 2, 48, 4 ]
+               - [ 7, 4, 0 ]
+               - [ 6, 30, 0 ]
+               - [ 11, 20, 4 ]
+               - [ 0, 13, 0 ]
+               - [ 17, 45, 0 ]
+               - [ 17, 31, 0 ]
+               - [ 16, 10, 0 ]
+         -
+            width: 9
+            height: 24
+            tl_x: 25
+            tl_y: 6
+            pyramid_level: 1
+            features:
+               - [ 1, 0, 4 ]
+               - [ 3, 20, 0 ]
+               - [ 9, 22, 1 ]
+               - [ 4, 5, 0 ]
+   -
+      template_id: 34
+      templates:
+         -
+            width: 20
+            height: 53
+            tl_x: 48
+            tl_y: 12
+            pyramid_level: 0
+            features:
+               - [ 4, 48, 4 ]
+               - [ 9, 5, 0 ]
+               - [ 8, 30, 0 ]
+               - [ 13, 20, 4 ]
+               - [ 1, 13, 0 ]
+               - [ 19, 45, 0 ]
+               - [ 19, 31, 0 ]
+               - [ 8, 39, 0 ]
+               - [ 18, 6, 0 ]
+               - [ 12, 53, 4 ]
+         -
+            width: 10
+            height: 26
+            tl_x: 24
+            tl_y: 6
+            pyramid_level: 1
+            features:
+               - [ 2, 0, 4 ]
+               - [ 4, 18, 0 ]
+               - [ 10, 22, 1 ]
+               - [ 5, 5, 0 ]
+   -
+      template_id: 35
+      templates:
+         -
+            width: 27
+            height: 43
+            tl_x: 44
+            tl_y: 18
+            pyramid_level: 0
+            features:
+               - [ 14, 43, 3 ]
+               - [ 5, 0, 7 ]
+               - [ 12, 24, 7 ]
+               - [ 0, 10, 7 ]
+               - [ 27, 36, 0 ]
+               - [ 23, 22, 7 ]
+               - [ 13, 14, 3 ]
+               - [ 15, 1, 7 ]
+         -
+            width: 13
+            height: 21
+            tl_x: 22
+            tl_y: 9
+            pyramid_level: 1
+            features:
+               - [ 7, 14, 7 ]
+               - [ 3, 2, 7 ]
+               - [ 13, 16, 0 ]
+               - [ 8, 17, 7 ]
+   -
+      template_id: 36
+      templates:
+         -
+            width: 31
+            height: 41
+            tl_x: 42
+            tl_y: 20
+            pyramid_level: 0
+            features:
+               - [ 19, 41, 3 ]
+               - [ 3, 1, 7 ]
+               - [ 14, 22, 7 ]
+               - [ 1, 20, 3 ]
+               - [ 31, 31, 7 ]
+               - [ 19, 31, 7 ]
+               - [ 13, 12, 3 ]
+               - [ 24, 18, 7 ]
+         -
+            width: 15
+            height: 20
+            tl_x: 21
+            tl_y: 10
+            pyramid_level: 1
+            features:
+               - [ 9, 14, 7 ]
+               - [ 3, 3, 7 ]
+               - [ 10, 20, 2 ]
+               - [ 15, 14, 0 ]
+   -
+      template_id: 37
+      templates:
+         -
+            width: 34
+            height: 40
+            tl_x: 40
+            tl_y: 20
+            pyramid_level: 0
+            features:
+               - [ 24, 40, 2 ]
+               - [ 2, 3, 6 ]
+               - [ 16, 22, 7 ]
+               - [ 14, 12, 2 ]
+               - [ 1, 14, 6 ]
+               - [ 34, 29, 7 ]
+               - [ 34, 39, 3 ]
+               - [ 11, 0, 6 ]
+         -
+            width: 17
+            height: 20
+            tl_x: 20
+            tl_y: 10
+            pyramid_level: 1
+            features:
+               - [ 11, 15, 6 ]
+               - [ 3, 4, 6 ]
+               - [ 17, 14, 7 ]
+               - [ 12, 20, 2 ]
+   -
+      template_id: 38
+      templates:
+         -
+            width: 41
+            height: 27
+            tl_x: 34
+            tl_y: 26
+            pyramid_level: 0
+            features:
+               - [ 39, 27, 1 ]
+               - [ 0, 9, 5 ]
+               - [ 30, 20, 5 ]
+               - [ 21, 12, 1 ]
+               - [ 11, 24, 1 ]
+               - [ 41, 17, 2 ]
+               - [ 4, 18, 5 ]
+               - [ 22, 25, 5 ]
+               - [ 5, 1, 5 ]
+         -
+            width: 20
+            height: 13
+            tl_x: 17
+            tl_y: 13
+            pyramid_level: 1
+            features:
+               - [ 2, 5, 5 ]
+               - [ 16, 10, 5 ]
+               - [ 20, 6, 6 ]
+               - [ 13, 9, 5 ]
+   -
+      template_id: 39
+      templates:
+         -
+            width: 42
+            height: 25
+            tl_x: 32
+            tl_y: 28
+            pyramid_level: 0
+            features:
+               - [ 41, 25, 1 ]
+               - [ 2, 8, 5 ]
+               - [ 26, 16, 5 ]
+               - [ 17, 8, 1 ]
+               - [ 13, 22, 1 ]
+               - [ 42, 10, 5 ]
+               - [ 1, 21, 3 ]
+               - [ 7, 0, 5 ]
+         -
+            width: 21
+            height: 12
+            tl_x: 16
+            tl_y: 14
+            pyramid_level: 1
+            features:
+               - [ 17, 9, 5 ]
+               - [ 2, 4, 5 ]
+               - [ 20, 4, 6 ]
+               - [ 14, 8, 5 ]
+   -
+      template_id: 40
+      templates:
+         -
+            width: 41
+            height: 25
+            tl_x: 32
+            tl_y: 28
+            pyramid_level: 0
+            features:
+               - [ 41, 25, 1 ]
+               - [ 1, 8, 5 ]
+               - [ 26, 16, 5 ]
+               - [ 16, 10, 1 ]
+               - [ 7, 18, 5 ]
+               - [ 41, 9, 5 ]
+               - [ 28, 5, 5 ]
+               - [ 6, 0, 5 ]
+         -
+            width: 20
+            height: 12
+            tl_x: 16
+            tl_y: 14
+            pyramid_level: 1
+            features:
+               - [ 14, 8, 5 ]
+               - [ 2, 4, 5 ]
+               - [ 20, 4, 6 ]
+               - [ 17, 9, 5 ]
+   -
+      template_id: 41
+      templates:
+         -
+            width: 43
+            height: 25
+            tl_x: 32
+            tl_y: 28
+            pyramid_level: 0
+            features:
+               - [ 41, 25, 1 ]
+               - [ 2, 9, 5 ]
+               - [ 34, 18, 5 ]
+               - [ 23, 10, 0 ]
+               - [ 6, 18, 5 ]
+               - [ 24, 23, 5 ]
+               - [ 43, 14, 2 ]
+               - [ 13, 23, 1 ]
+               - [ 0, 1, 2 ]
+         -
+            width: 21
+            height: 12
+            tl_x: 16
+            tl_y: 14
+            pyramid_level: 1
+            features:
+               - [ 3, 5, 5 ]
+               - [ 14, 8, 5 ]
+               - [ 20, 4, 5 ]
+               - [ 17, 9, 5 ]
+   -
+      template_id: 42
+      templates:
+         -
+            width: 42
+            height: 30
+            tl_x: 32
+            tl_y: 28
+            pyramid_level: 0
+            features:
+               - [ 42, 24, 1 ]
+               - [ 0, 9, 4 ]
+               - [ 26, 16, 5 ]
+               - [ 16, 10, 1 ]
+               - [ 6, 18, 5 ]
+               - [ 42, 9, 5 ]
+               - [ 29, 5, 4 ]
+               - [ 35, 18, 5 ]
+               - [ 14, 23, 1 ]
+               - [ 5, 1, 5 ]
+         -
+            width: 21
+            height: 15
+            tl_x: 16
+            tl_y: 14
+            pyramid_level: 1
+            features:
+               - [ 17, 15, 4 ]
+               - [ 3, 5, 5 ]
+               - [ 20, 4, 5 ]
+               - [ 14, 8, 5 ]
+   -
+      template_id: 43
+      templates:
+         -
+            width: 42
+            height: 26
+            tl_x: 32
+            tl_y: 32
+            pyramid_level: 0
+            features:
+               - [ 42, 20, 1 ]
+               - [ 1, 6, 4 ]
+               - [ 26, 12, 5 ]
+               - [ 14, 19, 1 ]
+               - [ 41, 4, 5 ]
+               - [ 2, 19, 3 ]
+               - [ 16, 6, 1 ]
+               - [ 28, 1, 4 ]
+         -
+            width: 21
+            height: 13
+            tl_x: 16
+            tl_y: 16
+            pyramid_level: 1
+            features:
+               - [ 17, 13, 4 ]
+               - [ 2, 3, 5 ]
+               - [ 15, 6, 5 ]
+               - [ 20, 2, 5 ]
