@@ -6,6 +6,7 @@
 #include "MvCameraControl.h"
 #include "laserMarking.h"
 #include "qmessagebox.h"
+#include "globalsetting.h"
 
 #define or ||
 //SDK使用
@@ -271,7 +272,6 @@ void CaptureThread::run()
 		printf("Input error!\n");
 		return;
 	}
-
 	// Select device and create handle
 	nRet = MV_CC_CreateHandle(&handle, stDeviceList.pDeviceInfo[nIndex]);
 	if (MV_OK != nRet)
@@ -314,6 +314,13 @@ void CaptureThread::run()
 	// Set trigger mode as off
 	//nRet = MV_CC_SetEnumValue(handle, "TriggerMode", 0);
 	
+	if (GlobalSetting::instance()->trigger) {
+		setTrigger(1);
+	}
+	else {
+		setTrigger(0);
+	}
+
 	if (MV_OK != nRet)
 	{
 		printf("Set Trigger Mode fail! nRet [0x%x]\n", nRet);
@@ -336,6 +343,8 @@ void CaptureThread::run()
 	}
 	g_nPayloadSize = stParam.nCurValue;
 
+
+	
 	// Start grab image
 	nRet = MV_CC_StartGrabbing(handle);
 	if (MV_OK != nRet)
@@ -352,19 +361,20 @@ void CaptureThread::run()
 		printf("Allocate memory failed.\n");
 		return;
 	}
-
-
+	//MV_CC_ClearImageBuffer(handle);
 
 	while (statusFlag)
 	{
+		GlobalSetting::instance()->state = true;
 		//qDebug() << "in while(statusFlag)" << endl;
-		
+
 		// get one frame from camera with timeout=1000ms
 		nRet = MV_CC_GetOneFrameTimeout(handle, pData, g_nPayloadSize, &stImageInfo, 300);
 		if (nRet == MV_OK)
 		{
 			printf("Get One Frame: Width[%d], Height[%d], nFrameNum[%d]\n",
 				stImageInfo.nWidth, stImageInfo.nHeight, stImageInfo.nFrameNum);
+			
 		}
 		else
 		{
@@ -375,6 +385,7 @@ void CaptureThread::run()
 			Sleep(5);
 			continue;
 		}
+		
 
 		// 数据去转换
 		bool bConvertRet = false;
@@ -461,64 +472,19 @@ void CaptureThread::run()
 		/*cv::imwrite("2.png", resMat);*/
 		QImage img = cvMat2QImage(resMat);
 		/*img.save("3.png");*/
+		//qDebug() << "in camera Thread=>ming:" << GlobalSetting::instance()->ming<<";it seems ok!";
 		if (GlobalSetting::instance()->ming) {
 			emit captured(img);
 		}
 		
 	}
-	//pause_status = false;
-	//qDebug() << "run" << endl;
-	//forever
-	//{
-	//	if (!pause_status)
-	//	{
-	//		qDebug() << "runing" << endl;
-	//		if (CameraGetImageBuffer(g_hCamera,&g_tFrameHead,&g_pRawBuffer,2000) == CAMERA_STATUS_SUCCESS)
-	//		{
-	//			CameraImageProcess(g_hCamera,g_pRawBuffer,g_pRgbBuffer,&g_tFrameHead);
-	//			CameraReleaseImageBuffer(g_hCamera,g_pRawBuffer);
-
-	//			graphicView_width = g_tFrameHead.iWidth;
-	//			graphicView_height = g_tFrameHead.iHeight;
-
-	//			if (g_tFrameHead.uiMediaType == CAMERA_MEDIA_TYPE_MONO8) {
-
-	//				memcpy(g_readBuf,g_pRgbBuffer, graphicView_width*graphicView_height);
-
-	//				if (quit) break;
-	//				QImage img(g_readBuf, graphicView_width, graphicView_height,QImage::Format_Indexed8);
-	//				img.setColorTable(grayColourTable);
-	//				emit captured(img);
-
-	//			}
-	//			else {
-	//				memcpy(g_readBuf,g_pRgbBuffer, graphicView_width*graphicView_height * 3);
-	//				if (quit) break;
-	//				QImage img = QImage((const uchar*)g_readBuf, graphicView_width, graphicView_height, QImage::Format_RGB888);
-	//				//QImage img(g_readBuf, g_W_H_INFO.sensor_width, g_W_H_INFO.sensor_height,QImage::Format_RGB888);
-	//				emit captured(img);
-	//			}
-	//		}
-	//		else
-	//		{
-	//			Sleep(1000);
-	//		}
-
-	//	}
-	//	else
-	//	{
-	//		qDebug() << "run out" << endl;
-	//		//QMessageBox::information(NULL, QStringLiteral("提示"), QStringLiteral("预览结束"));
-	//		break;
-	//	}
-	//	
-	//}
 }
 
 void CaptureThread::stop()
 {
 	pause_status = true;
 	quit = true;
+	
 
 	if (statusFlag == true){
 		statusFlag = false;

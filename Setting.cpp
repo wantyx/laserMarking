@@ -75,11 +75,17 @@ void Setting::transform()
     double y0 = point1InCamera.at<double>(1) / point1InCamera.at<double>(2);
     double x1 = point2InCamera.at<double>(0) / point2InCamera.at<double>(2);
     double y1 = point2InCamera.at<double>(1) / point2InCamera.at<double>(2);
-    if (x0 > x1 && y0 < y1) {//原点在左下角
+    if (x0 > x1 && y0 < y1) {//原点在右上角
+        GlobalSetting::instance()->Tranform = 0;
+    }
+    else if (x0<x1 && y0>y1) {//原点在左下角
         GlobalSetting::instance()->Tranform = 1;
     }
-    else if (x0<x1 && y0>y1) {//原点在右上角
-        GlobalSetting::instance()->Tranform = 0;
+    else if (x0 < x1 && y0 < y1) {//原点在左上
+        GlobalSetting::instance()->Tranform = 2;
+    }
+    else if(x0 > x1 && y0 > y1) {//原点在右下
+        GlobalSetting::instance()->Tranform = 3;
     }
 }
 
@@ -212,8 +218,8 @@ void Setting::checkChessPoints()
     cvtColor(src, gray, CV_BGR2GRAY);
     threshold(gray, gray, 128, 255, THRESH_BINARY_INV);
     medianBlur(gray, gray, 9);
-    cv::imshow("?", gray);
-    cv::waitKey(0);
+    //cv::imshow("?", gray);
+    //cv::waitKey(0);
     SimpleBlobDetector::Params params;
     float squareSize = squarSize;
     params.minArea = 30;
@@ -389,11 +395,20 @@ void Setting::saveTemplate()
     if (m1Item == NULL) {
         return;
     }
+    int padding = 0;
     QPointF startPosition = m1Item->getStartPos();
     QPointF endPosition = m1Item->getEndPos();
     QRect ROI;
     ROI.setTopLeft(startPosition.toPoint());
     ROI.setBottomRight(endPosition.toPoint());
+    int x0 = startPosition.toPoint().x();
+    int y0 = startPosition.toPoint().y();
+    int x1 = endPosition.toPoint().x();
+    int y1 = endPosition.toPoint().y();
+    int distance = (int)pow(pow((x1 - x0), 2) + pow((y1 - y0), 2), 0.5);
+    int xxyy = (y1 - y0) > (x1 - x0) ? (x1 - x0) : (y1 - y0);
+    padding = (distance - xxyy) / 2;
+    GlobalSetting::instance()->setPadding(padding);
     GlobalSetting::instance()->setROI(ROI);
     GlobalSetting::instance()->templateImage = matConvertQImage.QImage2cvMat(imgshow);
     cv::imwrite("./templateImage.bmp", matConvertQImage.QImage2cvMat(imgshow));
@@ -419,6 +434,7 @@ void Setting::preview()
     int y = GlobalSetting::instance()->getROI().top();
     int width = GlobalSetting::instance()->getROI().right() - x;
     int height = GlobalSetting::instance()->getROI().bottom() - y;
+    int scorenumber = GlobalSetting::instance()->getScoreNumber();
     Rect roi(x+imgshow.width()/2, y+imgshow.height()/2, width, height);
     //判断路径下是否存在文件
     cv::Mat temp = cv::imread("./templateImage.bmp");
@@ -436,7 +452,7 @@ void Setting::preview()
     }
     
     vector<recognizedObjectLocation> ObjLocations;
-    ObjLocations = test("./templateImage.bmp", "./", num_feature, roi, padding, class_id);
+    ObjLocations = test("./templateImage.bmp", "./", num_feature, roi, padding, class_id,scorenumber);
     for (auto& i : ObjLocations) {
         TargetData targetData;
         targetData.setTopleftX(i.topleft.x);
@@ -466,6 +482,27 @@ void Setting::preview()
     //piex2location(2361, 1825);
 }
 
+//void Setting::getTemplePoints(){
+//    读取特征点文件
+//    cv::FileStorage fs("111_templ.yaml", FileStorage::READ);
+//    对应的角度尺度文件
+//    cv::FileStorage angle_fs("111_info.yaml", FileStorage::READ);
+//    if (fs.isOpened() & angle_fs.isOpened() == 0) {
+//        QMessageBox::warning(this, tr("wrong"), tr("failed read temple file"));
+//    }
+//    vector<int>followPoints;
+//    Mat template_pyramids, infos;
+//    fs["template_pyramids"] >> template_pyramids;
+//    angle_fs["infos"] >> infos;
+//    
+//    
+//
+//    for (auto i : Range(0,template_pyramids.size())) {}
+//    
+//   
+//
+//    
+//}
 
 
 void Setting::showImage(QGraphicsView* const qgraphicsView, QGraphicsScene* const qgraphicsScene, MyGraphicsItem* const item)

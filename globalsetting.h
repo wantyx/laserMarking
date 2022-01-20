@@ -69,6 +69,12 @@ public:
     int chessW;
     int chessH;
     int chessV;
+    bool trigger = false;
+    bool state = true;
+
+    double distance = 0;
+    double errorRangeMax = 0;
+    double sleepTime = 0;
 
     QString getTemplateImagePath()const { return templateImagePath; }
     void setTemplateImagePath(QString _) { templateImagePath = _; }
@@ -78,6 +84,9 @@ public:
 
     int getFeatureNumber() { return featureNumber; }
     void setFeatureNumber(int _) { featureNumber = _; }
+
+    int getScoreNumber() { return scoreNumber; }
+    void setScoreNumber(int _) { scoreNumber = _; }
 
     int getPadding()const { return padding; }
     void setPadding(int _) { padding = _; }
@@ -121,6 +130,7 @@ private:
     QString templateName;
     int featureNumber;
     int padding;
+    int scoreNumber;
     QString savePath;
     QRect ROI;
 

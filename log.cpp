@@ -4,7 +4,7 @@
 QFile* gFileLog = NULL;
 QMessageLogger* gMLog = NULL;
 
-char* msgHead[] = {
+const char* msgHead[] = {
     "Debug   ",
     "Warning ",
     "Critical",

@@ -45,6 +45,7 @@ public slots:
     void endDrawCenterLine();//保存中心线到GlobalSetting中
     void clear1();
     void clear2();
+    //void getTemplePoints();//显示模板点并画在模板图上
 
 private:
     SetParam* setparam;

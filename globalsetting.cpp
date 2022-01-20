@@ -56,6 +56,7 @@ void GlobalSetting::readIniFile()
     featureNumber = settings.value("DevOption/featureNumber").toInt();
     padding = settings.value("DevOption/padding").toInt();
     savePath = settings.value("DevOption/savePath").toString();
+    scoreNumber = settings.value("DevOption/scoreNumber").toInt();
 
     int roix = settings.value("DevOption/ROIX").toInt();
     int roiy = settings.value("DevOption/ROIY").toInt();
@@ -68,6 +69,11 @@ void GlobalSetting::readIniFile()
     chessH = settings.value("DevOption/chessH").toInt();
     chessW = settings.value("DevOption/chessW").toInt();
     chessV = settings.value("DevOption/chessV").toInt();
+
+    errorRangeMax = settings.value("DevOption/errorRangeMax").toDouble();
+    distance = settings.value("DevOption/distance").toDouble();
+    sleepTime = settings.value("DevOption/sleepTime").toDouble();
+
 
     cameraIntriData[0] = settings.value("DevOption/cameraIntriData0").toDouble();
     cameraIntriData[1] = settings.value("DevOption/cameraIntriData1").toDouble();
@@ -132,6 +138,7 @@ void GlobalSetting::saveIniFile()
     settings.setValue("savePath", savePath);
     settings.setValue("featureNumber", featureNumber);
     settings.setValue("padding", padding);
+    settings.setValue("scoreNumber", scoreNumber);
 
     settings.setValue("ROIX", ROI.left());
     settings.setValue("ROIY", ROI.top());
@@ -199,6 +206,9 @@ void GlobalSetting::saveIniFile()
         settings.setValue("rangeArea" + QString::number(i), vec_range.at(i));
     }
     settings.setValue("transform", Tranform);
+    settings.setValue("sleepTime", sleepTime);
+    settings.setValue("distance", distance);
+    settings.setValue("errorRangeMax", errorRangeMax);
 
     settings.endGroup();
 }
